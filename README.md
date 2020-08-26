@@ -1,0 +1,2 @@
+# Fabric_QC
+QC (quality control) check is the basic need of clothing industries to elevate and maintain its standing in the market. With this kind of importance its also carry certain factors which may increase net cost of production and also reduce the efficiency of the work because these QC tests take a lot of time as well as need train team for performing these tests. So by using the  cutting edge technology of AI subfield Computer vision we can compose a program which able to predict the result of these tests with a high accuracy rate.
