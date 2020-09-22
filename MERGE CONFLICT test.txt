@@ -1,3 +1,8 @@
 Enter your own paragraph here:
 
+Our next step in this project is to get concepts of topics like:-Erosion and Dilation
+Contours
+Masking 
+these topics will help us to find specific issue in the fabric and make work efficient.
+Muhammad Zain Arslan
 
