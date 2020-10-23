@@ -12,8 +12,9 @@ while(cap.isOpened()):
         ret, frame1=cap.read()
         gray2 = cv2.cvtColor(frame1, cv2.COLOR_BGR2GRAY)
         sub = gray1 - gray2
+        #sub = frame - frame1
         frame = frame1
-        cv2.imwrite("frame%d.jpg" % currentFrame, sub)  
+        cv2.imwrite("data/frame%d.jpg" % currentFrame, sub)  
         currentFrame += 1  
         cv2.imshow('frame',sub)
         #cv2.waitKey(0)
